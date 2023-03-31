@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript with React, Python, Java and backend tecnologies**
 
-- 👨‍💻 All of my projects are available at [https://dennerpl.github.io/web_page/](https://dennerpl.github.io/web_page/)
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **denner.souzapl@gmail.com**
